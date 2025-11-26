@@ -22,7 +22,7 @@ Use a clean, responsive UI
 🚀 Live Demo
 
 Vercel URL:
-(Add your deployed link here)
+https://tinylink-sage-eta.vercel.app/
 
 📦 GitHub Repository
 https://github.com/Samrocz05/tinylink
@@ -31,9 +31,6 @@ https://github.com/Samrocz05/tinylink
 
 (Add your YouTube/Drive video link here)
 
-🤖 LLM Assistance Link (ChatGPT Transcript)
-
-(Paste your ChatGPT share link here)
 
 🔧 Tech Stack
 Frontend & Backend
