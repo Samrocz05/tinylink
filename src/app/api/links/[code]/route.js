@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { query } from "../../../../../lib/db"; // adjust if needed
+import { query } from "../../../../lib/db"; // adjust if needed
 
 export async function GET(req, context) {
   const { code } = await context.params;
